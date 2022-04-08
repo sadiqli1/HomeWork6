@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 700vh;
+}
+
+li{
+    list-style: none;
+}
+
+.container .section .letter{
+    width: 100vw;
+    height: 35px;
+    color: white;
+    background-color: rgb(157, 155, 155);
+    margin-top: 10px;
+    position: sticky;
+    top: 0px;
+}
+
+.container .section .country{
+    margin-left: 30px;
+    margin-top: 10px;
+}
